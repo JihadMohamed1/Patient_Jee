@@ -8,8 +8,6 @@ This project is a JEE web application designed to manage hospital patients. The 
 ## Features
 
 - Create, update, and delete patient records
-- Schedule appointments
-- Manage medical histories
 - Search patients by name, ID or other information
 - Secure login system
 
